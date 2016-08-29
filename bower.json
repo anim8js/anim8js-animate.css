@@ -1,0 +1,29 @@
+{
+  "name": "anim8js-animate.css",
+  "version": "1.0.0",
+  "homepage": "http://clickermonkey.github.io/anim8js-animate.css",
+  "authors": [
+    "Philip Diffenderfer <pdiffenderfer@gmail.com>"
+  ],
+  "description": "anim8 your HTML elements with animate.css animations",
+  "main": "build/anim8js-animate.css.js",
+  "keywords": [
+    "javascript",
+    "animation",
+    "DOM",
+    "HTMLElement",
+    "animate.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src"
+  ],
+  "dependencies": {
+    "anim8js": "^1.0.0",
+    "anim8js-dom": "^1.0.0"
+  }
+}

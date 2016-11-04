@@ -1,4 +1,4 @@
-# anim8js-animate.css
+![anim8js](https://github.com/anim8js/anim8js/blob/master/images/anim8js-logo.png)
 
 [anim8](https://github.com/anim8js/anim8js) your HTML elements with [animate.css](https://daneden.github.io/animate.css/) animations
 

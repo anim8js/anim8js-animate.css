@@ -1,7 +1,8 @@
 {
   "name": "anim8js-animate.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "anim8 your HTML elements with animate.css animations",
+  "main": "build/anim8-animate.css.js",
   "author": "Philip Diffenderfer",
   "license": "MIT",
   "repository": {

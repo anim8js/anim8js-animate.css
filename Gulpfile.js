@@ -16,8 +16,8 @@ var insert = require('gulp-insert');
 var glob = require('glob');
 
 var build = {
-  filename: 'anim8js-animate.css.js',
-  minified: 'anim8js-animate.css.min.js',
+  filename: 'anim8js-animations.js',
+  minified: 'anim8js-animations.min.js',
   output: './build/',
   include: [
     './src/_header.js',

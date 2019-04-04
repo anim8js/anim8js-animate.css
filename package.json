@@ -1,5 +1,5 @@
 {
-  "name": "anim8js-animate.css",
+  "name": "anim8js-animate-css",
   "version": "1.0.2",
   "description": "anim8 your HTML elements with animate.css animations",
   "main": "build/anim8-animate.css.js",

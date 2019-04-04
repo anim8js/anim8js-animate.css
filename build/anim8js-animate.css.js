@@ -1,4 +1,4 @@
-/* anim8js-animate.css 1.0.2 - anim8 your HTML elements with animate.css animations by Philip Diffenderfer */
+/* anim8js-animate-css 1.0.2 - anim8 your HTML elements with animate.css animations by Philip Diffenderfer */
 // UMD (Universal Module Definition)
 (function (root, factory)
 {

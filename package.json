@@ -1,6 +1,6 @@
 {
   "name": "anim8js-animations",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "anim8 your HTML elements with animate.css animations",
   "main": "build/anim8js-animations.js",
   "author": "Philip Diffenderfer",
